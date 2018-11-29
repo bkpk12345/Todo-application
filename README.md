@@ -1,2 +1,9 @@
 # Todo-application
-Simple todo application
+Simple todo 
+
+
+Just enter npm install 
+
+and then 
+
+node app.js
